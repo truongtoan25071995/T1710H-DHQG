@@ -28,4 +28,6 @@ body {
 	#footer {
 		width: 100%;
 		height: 200px;
+		border- bottom: groove thin #000;
+		box-sizing: border-box;
 	}
